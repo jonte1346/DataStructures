@@ -1,4 +1,4 @@
-# ALGODAT
+# Algorithms and data structures
 
 
 
